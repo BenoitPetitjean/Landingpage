@@ -1,0 +1,67 @@
+
+body{
+    margin: 0px auto;
+}
+
+header.header {
+    display: flex;
+    align-items: center;
+    background-color: black;
+}
+
+header.header img {
+    width: 40px;
+}
+
+section.HTP {
+    height: 80vh;
+}
+nav.nav {
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+    width: 300px;
+    margin-left: 20px;
+}
+
+nav.nav li{
+    color: white;
+}
+
+h1 {
+    margin: 9%;
+    color: black;
+    font-size: 50px;
+}
+
+.Titre image {
+    margin-left: 9%;
+}
+
+nav.nav a{
+    color: white;
+}
+
+h2 {
+    margin-left: 10%; 
+}
+
+p {
+    margin-left: 9%;
+}
+
+.ecouteur img {
+    width: 250px;
+}
+
+.ecouteur{
+    width: 275px;
+    margin:10%;
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+}
+
+a {
+    color: black;
+}
